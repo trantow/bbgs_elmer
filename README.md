@@ -1,7 +1,7 @@
 # bbgs_elmer
 Elmer/Ice code for the Bering-Bagley Glacier System Model
 
-Provided by Thomas Trantow as required by paper submission to Computer & Geosciecnes and the Journal of Geophysical Research Earth Surfaces. See the relevant Paper titled "Sensitivity of Glacier Elevation Analysis and Numerical Modeling to CryoSat-2 SIRAL Retracking Techniques" (2020) and "Evolution of a Surge Cycle of the Bering-Bagley Glacier System from Observations and Numerical Modeling" (2022) respectively.
+Provided by Thomas Trantow as required by paper submission to Computer & Geosciecnes and the Journal of Geophysical Research Earth Surfaces. See the relevant papers titled "Sensitivity of Glacier Elevation Analysis and Numerical Modeling to CryoSat-2 SIRAL Retracking Techniques" (2020) and "Evolution of a Surge Cycle of the Bering-Bagley Glacier System from Observations and Numerical Modeling" (2022) respectively.
 
 For 2020 C&G paper:
 An example Solver Input File (SIF) to run the BBGS model in Elmer/Ice is provided (crev\_BBGS\_C2\_swath\_IAMG\_20181126.sif) along with code the BBGS-specific User Functions (USF\_Bering.f90). Code was written by Thomas Trantow and adapted from open source code provided by the Elmer/Ice community (see http://elmerice.elmerfem.org/courses-tutorials).
