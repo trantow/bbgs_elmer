@@ -1,5 +1,5 @@
 # bbgs_elmer
-Elmer/Ice code for the Bering-Bagley Glacier System Model
+## Elmer/Ice code for the Bering-Bagley Glacier System Model
 
 Provided by Thomas Trantow as required by paper submission to Computer & Geosciecnes and the Journal of Geophysical Research Earth Surfaces. See the relevant papers titled "Sensitivity of Glacier Elevation Analysis and Numerical Modeling to CryoSat-2 SIRAL Retracking Techniques" (2020) and "Evolution of a Surge Cycle of the Bering-Bagley Glacier System from Observations and Numerical Modeling" (2022) respectively.
 
