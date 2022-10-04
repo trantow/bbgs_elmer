@@ -2,7 +2,7 @@
 ## Elmer/Ice code for the Bering-Bagley Glacier System Model
 ### Provided by Thomas Trantow, Orchid ID: 0000-0003-2271-6854
 
-The code and data in this repository contain the unique data and Solver Input Files required to run the Bering Glacier simulations described in the publications listed below. Please contact me at trantow@colorado.edu for any additional details or data files that may be need to recreate or extend these results.
+The code and data in this repository contain the unique data and Solver Input Files required to run the Bering Glacier simulations described in the publications listed below. Please contact me at trantow@colorado.edu for any additional details or data files that may be need to recreate or extend these results. Please see the document titled elmer-ice_BBGS_intro.pdf for more specifics relating to the files in this repo and for an introduction to using the BBGS model in Elmer/Ice.
 
 ### For 2020 Computer & Geosciecnes paper titled "Sensitivity of Glacier Elevation Analysis and Numerical Modeling to CryoSat-2 SIRAL Retracking Techniques":
 An example Solver Input File (SIF) to run the BBGS model in Elmer/Ice is provided (crev\_BBGS\_C2\_swath\_IAMG\_20181126.sif) along with code for the BBGS-specific User Functions (USF\_Bering.f90) used in the simulation of Bering Glacier during the early-2011 surge phase. Code was written by Thomas Trantow and adapted from open source code provided by the Elmer/Ice community (see http://elmerice.elmerfem.org/courses-tutorials). 
